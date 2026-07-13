@@ -19,11 +19,6 @@ I’m looking to collaborate on:
 - Ever wonder why programmers love coffee? It’s because Java is both a programming language and a coffee brand! ☕💻<img src="https://cdn-icons-png.freepik.com/512/5900/5900780.png" alt="Coffee Icon" style="width: 30px; height: 30px; border-radius: 50%;" />
 - Did you know that the first computer virus was created in 1983? It was called the Elk Cloner and was spread via floppy disks. It wasn’t malicious—it just displayed a poem! 🦠💾
 
-<p align="center">
-  <img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/17/24/1497533116-not-dead.gif" alt="Not Dead GIF" />
-</p>
-
-
 
 <!---
 Strike2Verse/Strike2Verse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
